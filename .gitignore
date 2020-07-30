@@ -1,0 +1,12 @@
+composer.lock
+.DS_Store
+Thumbs.db
+/phpunit.xml
+/.idea
+/.vscode
+/.env
+/yarm.lock
+/package-lock.json
+
+
+/node_modules
